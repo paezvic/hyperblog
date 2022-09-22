@@ -1,5 +1,5 @@
 body{
-    font-family: courier;
+    font-family: arial;
     text-align: center;
     color: black;
     font-size: 20px;
@@ -29,4 +29,8 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
